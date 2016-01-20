@@ -1,5 +1,6 @@
 # Bidimensional-Statistics-Tool
-> Description : Program in C++ that can detail you relation between two variables
+> ### Description
+  Program in C++ that can detail you relation between two variables
 *	Covariance
 *	Correlational coefficient
 
