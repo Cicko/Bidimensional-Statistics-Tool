@@ -1,4 +1,12 @@
 # Bidimensional-Statistics-Tool
+> Description : Program in C++ that can detail you relation between two variables
+*	Covariance
+*	Correlational coefficient
+
+
+> Author : Rudolf Cicko
+> Date : About July in 2015.
+
 
 ## Compilation
 
@@ -8,7 +16,14 @@ To compile the project, go inside src file and type:
 
 ## Execution
 
-Then to execute it:
+You must pass by argument the data file stored in `/ExampleData` folder  to execute it:
+
 `./BST data_file.data`
 
-Data files are in </ExampleData> folder.
+Or you can create it by your own.
+
+## Data Syntax
+
+
+
+

@@ -1,9 +1,29 @@
 # Bidimensional-Statistics-Tool
+> Description : Program in C++ that can detail you relation between two variables
+*	Covariance
+*	Correlation ratio
 
-## Usage
+
+> Author : Rudolf Cicko
+> Date : About July in 2015.
+
+
+## Compilation
 
 To compile the project, go inside src file and type:
 `g++ main.cpp -o BST`
 
-Then to execute it:
-`./BST datafile.data`
+
+## Execution
+
+You must pass by argument the data file stored in `/ExampleData` folder  to execute it:
+
+`./BST data_file.data`
+
+Or you can create it by your own.
+
+## Data Syntax
+
+
+
+
